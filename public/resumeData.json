@@ -6,15 +6,15 @@
     "image": "IM_Devin.jpg",
     "bio": "My name is Devin, I'm a passionate and ever-learning developer. Currently I'm working at University Fancards while also operating my own business.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "devin@",
     "phone": "+44 12 345 6789",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "910 N 27th St",
+      "city": "Quincy",
+      "state": "Illinois",
+      "zip": "62301"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://fatbacksbbq.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {

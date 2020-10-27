@@ -2,7 +2,7 @@
   "main": {
     "name": "Devin Osborne",
     "occupation": "Web Developer, Coder, and Graphic Designer",
-    "description": "Full Stack Developer by Day, Founder && Entrepreneur by Night. #builtDifferent",
+    "description": "Student and Developer by Day, Founder && Entrepreneur by Night. #builtdifferent",
     "image": "IM_Devin.jpg",
     "bio": "My name is Devin, I'm a passionate and ever-learning developer. Currently I'm working at University Fancards while also operating my own marketing business–Intellectual Brand.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -52,15 +52,15 @@
     "work": [
       {
         "company": "University Fancards",
-        "title": "Team Member, Marketer, && Developer",
+        "title": "Team Member && Developer",
         "years": "April 2020 - Present",
-        "description": "Changing the way we pay."
+        "description": "Changing the way we pay. Fancards allows passionate fans to become ultimate fans."
       },
       {
         "company": "Fatbacks BBQ",
         "title": "Director of Marketing",
         "years": "June 2012 - Current",
-        "description": "Creating fantastic food flavors and experiences."
+        "description": "Creating fantastic food flavors and experiences. "
       }
     ],
     "skills": [

@@ -4,7 +4,8 @@
     "occupation": "Software Engineer, Entrepreneur, and Innovator",
     "description": "Developer by Day, Founder & Entrepreneur by Night. #builtdifferent",
     "image": "IM_Devin.jpg",
-    "bio": "My name is Devin, I'm a passionate and driven developer. Currently I'm searching for innovative companies to work with to change the future.",
+    "bio": "I am an entrepreneur at heart, with an incredible passion for innovation, an everlasting desire for knowledge, and a hope to impact the world. Born in the small town of Quincy, Illinois, I moved to Birmingham, Alabama to attend Samford University. While studying marketing and business, I spent an overwhelming amount of time focused on technology and software engineering. I love to build things, and I love to help others. I often work past the point of exhaustion, but I never tire. I have a longing passion to be a public speaker alongside my business innovations and technology habits. My mission: to create something that causes as much impact as the iPhone.",
+  
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "devin@fatbacksbbq.com",
     "phone": "217.779.1753",
@@ -15,7 +16,7 @@
       "zip": "62301"
     },
     "website": "http://fatbacksbbq.com",
-    "resumedownload": "resume-2020.pdf",
+    "resumedownload": "/images/Devin_Osborne_Resume_v2.pdf",
     "social": [
       {
         "name": "facebook",
@@ -44,21 +45,21 @@
     "education": [
       {
         "school": "Samford University",
-        "degree": "Bachelors in Marketing",
+        "degree": "Major: Business Administration, B.S. (Marketing)",
         "graduated": "May 2021",
-        "description": "Graduated with Honors"
+        "description": "Upon a passion to learn, my academic achievement allowed me to join Samford University's honors college to study business and music. After a freshman year, I realized I had little time to invest in music if I wished to fully dive into business software engineering. In my free time, I invested nearly every hour of the day to working on projects and businesses. It was during these times when I discovered the power of thinking differently."
       }
     ],
     "work": [
       {
         "company": "University Fancards",
-        "title": "Team Member && Developer",
-        "years": "April 2020 - Present",
-        "description": "Changing the way we pay. Fancards allows passionate fans to become ultimate fans."
+        "title": "Software Developer & Creative, Intern",
+        "years": "Spring 2019 - Spring 2021",
+        "description": "At University Fancards, we are changing the way people pay. I was brought on as a volunteer intern looking to exchange my time for education and rapid learning. Over my time at University Fancards, I learned everything from mass-market advertising to implementing native APIs. The primary projects I worked on was building a data dashboard app, implementing a store locator witholding nearly 10,000 locations, and working on our products primary website. Leveraged Learning: React JS, Node JS, JavaScript, PHP, SQL, Python, AWS, APIs."
       },
       {
         "company": "Fatbacks BBQ",
-        "title": "Chief Marketing Officer",
+        "title": "Marketing & Technology Director",
         "years": "June 2012 - Current",
         "description": "Creating fantastic food flavors and experiences. "
       }
@@ -66,19 +67,27 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "15%"
+        "level": "85%"
+      },
+      {
+        "name": "React Native",
+        "level": "55%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
       },
       {
         "name": "CSS",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Git",
-        "level": "40%"
+        "level": "75%"
       },
       {
-        "name": "Adobe Illustrator && Photoshop",
-        "level": "55%"
+        "name": "Adobe Illustrator & Photoshop",
+        "level": "80%"
       },
       {
         "name": "HTML5",

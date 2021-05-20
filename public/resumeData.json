@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My work as a developer has spanned from the very beginnings of wordpress web development, all the way to creating mobile applications for Android and iOS. I most enjoy solving problems that seem rather unsolvable, it's the epitome of competition–I refuse to let the problem beat me. My primary experience actually resides in the business world–Marketing and Data Analytics. But I quickly realized the people who actually control marketing are those that make it up: the developers and the designers. So, I eagerly set out to become not just a businessman, but a marketer who has the knowledge to actually market.",
     "education": [
       {
         "school": "Samford University",
@@ -61,10 +61,20 @@
         "company": "Fatbacks BBQ",
         "title": "Marketing & Technology Director",
         "years": "June 2012 - Current",
-        "description": "Creating fantastic food flavors and experiences. "
+        "description": "Fatbacks BBQ is a up-and-coming restaurant that changes people's days one plate at a time by creating food with flavor. Responsibilities & Achievements: Planned and executed the rebranding of the company. This entailed creating a brand guide for the company as well as refacing the entire company's brand physically and online. This contributed to the 40% increase in sales over a years time and our overall brand awareness levels. Planned and implemented the company's overall marketing strategy, including demographic identification, online advertising, campaigning, analytics reporting, photography, graphic design and social media marketing. This lead to a doubling of social followers on platforms like Facebook and a 40% revenue increase from the previous year. 30% of this additional revenue was driven from online sales conversions. Developed Online Ordering Platform & Website. This consisted of both the setup, design, development, and continual updating of the website platform. Crafting everything on the website from taking the photos and editing them to choosing the color scheme and font selection. Controlled and posted to all social media accounts, raising our engagement over 150% for a continual 8 month period. Generating fresh and new content including starting a podcast (Storytime with Devin), raffles, giveaways, and educational tips."
+      },
+      {
+        "company": "Intellectual Brand",
+        "title": "Founder & CEO",
+        "years": "August 2018 - May 2021",
+        "description": "Intellectual Brand is a startup marketing and brand agency that focuses on taking ideas from brain to reality. Responsibilities & Achievements: Founded and CEO. Grew revenue and clientele year over year by ≈ 25%. Focusing on aiding businesses who needed help with establishing a noticable and engaging brand. In charge of monitoring up to 6 clients at once. Client work consisted of web development, business strategy advising, marketing in all facets and avenues, advertising, and branding. Developed a scalable business strategy and partnerships that allowed for growth in the midst of college."
       }
     ],
     "skills": [
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
       {
         "name": "ReactJs",
         "level": "85%"
@@ -74,35 +84,39 @@
         "level": "55%"
       },
       {
-        "name": "JavaScript",
-        "level": "85%"
+        "name": "Angular",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "30%"
+      },
+      {
+        "name": "SQL",
+        "level": "30%"
       },
       {
         "name": "CSS",
         "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "75%"
+        "name": "AWS",
+        "level": "70%"
       },
       {
         "name": "Adobe Illustrator & Photoshop",
         "level": "80%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
         "name": "Integromat",
-        "level": "20%"
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Fatbacks BBQ Website && Ordering Platform",
+        "title": "Fatbacks BBQ Website & Ordering Platform",
         "category": "BBQ restaurant website with a focus on online ordering",
         "image": "fb-home.jpg",
         "url": "https://fatbacksbbq.com"
@@ -112,6 +126,12 @@
         "category": "Mexican restaurant website used to bring in traffic to the store",
         "image": "los-rest.jpg",
         "url": "https://losmolcajetesquincy.com"
+      },
+      {
+        "title": "Fancards Store Locator Map & Website",
+        "category": "",
+        "image": "fancards map.png",
+        "url": "https://map.myfancard.com/"
       }
     ]
   },
